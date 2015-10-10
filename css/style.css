@@ -13,12 +13,14 @@ section {
   bottom: 10px;
 }
 .well {
-  border-radius: 30%;
   margin-right: 100px;
   margin-left: 100px;
 }
 .results {
   margin-top: 10%;
+}
+.random {
+  text-align: center;
 }
 footer {
   background-color: black;
@@ -33,7 +35,7 @@ footer {
 .search-position {
   position: absolute;
   left: 50%;
-  top: 15%;
+  top: 20%;
   transform: translate(-50%, -50%);
 }
 
